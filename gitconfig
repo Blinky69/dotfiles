@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jason.p.roche@hotmail.com
+	name = Jason Roche
